@@ -3,7 +3,7 @@
     "metadata": {
       "name": "Hyperweb",
       "description": "Hyperweb brings TypeScript on-chain, executing smart contracts via a JavaScript VM and opening web3 to more developers. With state-of-the-art UI and client-side tooling, Hyperweb offers a complete, end-to-end TypeScript ecosystem for building and deploying decentralized applications.",
-      "metadata": "{ \"forge_json_url\": \"https://raw.githubusercontent.com/hyperweb-io/ics-resources/refs/heads/main/forge.json\", \"stage\": \"localnet\"}"
+      "metadata": "{ \"forge_json_url\": \"https://raw.githubusercontent.com/hyperweb-io/ics-resources/refs/heads/main/forge.json\", \"stage\": \"pre-launch\"}"
     },
     "initialization_parameters": {
       "initial_height": {
