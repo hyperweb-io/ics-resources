@@ -1,0 +1,48 @@
+{
+    "chain_id": "hyperweb-1",
+    "metadata": {
+      "name": "Hyperweb",
+      "description": "Hyperweb brings TypeScript on-chain, executing smart contracts via a JavaScript VM and opening web3 to more developers. With state-of-the-art UI and client-side tooling, Hyperweb offers a complete, end-to-end TypeScript ecosystem for building and deploying decentralized applications.",
+      "metadata": "{ \"forge_json_url\": \"https://raw.githubusercontent.com/hyperweb-io/ics-resources/refs/heads/main/forge.json\", \"stage\": \"localnet\"}"
+    },
+    "initialization_parameters": {
+      "initial_height": {
+       "revision_number": 1, 
+       "revision_height": 1 
+      },
+      "genesis_hash": "",
+      "binary_hash": "",
+      "spawn_time": null,
+      "unbonding_period": 1209600000000000,
+      "ccv_timeout_period": 2419200000000000,
+      "transfer_timeout_period": 1800000000000,
+      "consumer_redistribution_fraction": "0.50",
+      "blocks_per_distribution_transmission": 1000,
+      "historical_entries": 10000,
+      "distribution_transmission_channel": ""
+    },
+    "power_shaping_parameters": {
+      "top_N": 0,
+      "validators_power_cap": 25,
+      "validator_set_cap": 0,
+      "allowlist": [
+        "cosmosvalcons1xxfqlx7r5wdkdpmvcltdtevfuype80cwmrrtae",
+        "cosmosvalcons1qxdeeg55f57vxmruwv5rau743etv3fw530uf8x",
+        "cosmosvalcons1pdpwglc4fcjdzqvyhvfwxg684trpc6uqck5sxk",
+        "cosmosvalcons1m7fg8k39k2tyym5hgwrpf5wx9hqsr8vywuyrtm",
+        "cosmosvalcons1c5e86exd7jsyhcfqdejltdsagjfrvv8xv22368",
+        "cosmosvalcons1vu2xpycvehymqmzaq40y64gwhrd0y2g77ec8vl",
+        "cosmosvalcons1jufcrrd9gze26sxd82ppse03eg5g5xa2gplt6p",
+        "cosmosvalcons1kpm95tm0esga3tzxya06cpkaxh65y97pmqgmng",
+        "cosmosvalcons1lrjsx2uc6hfjgshrykmfwz6rfa6juyf7gszn2c",
+        "cosmosvalcons1evelsgtuq72jajsc757pl6hez053gvfhu2mjty",
+        "cosmosvalcons1uv2n8wp2cea2z7ytwz7haxzma78py54p5akk8j",
+        "cosmosvalcons1t8p8pdmq6jdzsm3dsurv8877vsvjtdwwkxq2cu",
+        "cosmosvalcons1xd3737tmqtkvqq5fuush8kp82scy0tx6882l4q",
+        "cosmosvalcons1dfx3ffavnd8hclegmjgydegzn5dlp86p7wgc75"
+      ],
+      "denylist": [],
+      "min_stake": 0,
+      "allow_inactive_vals": true
+    }
+  }

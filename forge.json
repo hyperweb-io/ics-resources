@@ -1,0 +1,22 @@
+{
+    "display": {
+        "name": "Hyperweb",
+        "description": "Hyperweb brings TypeScript on-chain, executing smart contracts via a JavaScript VM and opening web3 to more developers. With state-of-the-art UI and client-side tooling, Hyperweb offers a complete, end-to-end TypeScript ecosystem for building and deploying decentralized applications.",
+        "links": {
+            "logo": "https://raw.githubusercontent.com/hyperweb-io/ics-resources/refs/heads/main/logo.svg",
+            "discord": "",
+            "email": "hello@hyperweb.io",
+            "github": "https://github.com/hyperweb-io",
+            "telegram": "",
+            "twitter": "https://x.com/Hyperweb_",
+            "website": "https://hypereweb.io",
+            "whitepaper": ""
+        },
+        "widget": {
+            "title": "Build Web3 apps in pure TypeScript",
+            "description": "Create blockchain applications with the JavaScript tools you already know. No new languages, no complexity—just end-to-end TypeScript for smart contracts and UI.",
+            "buttonText": "Start Building",
+            "buttonUrl": "https://hyperweb.io"
+        }
+    }
+}
